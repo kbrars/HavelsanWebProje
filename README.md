@@ -25,4 +25,4 @@ operator sayfaları src/pages/operatorpages içinde bulunmakta.
 
 Oprator sayfalarında map, camera ve warning sayfalarını oluşturdum ben zaten siz ekstra oluşturmayın.
 
-VAR OLAN ŞEYE DOKUNUP BOZMAYINIZ!!!!
+VAR OLAN ŞEYE DOKUNUP BOZMAYINIZ!!!!  MERAKLIYDIM SENİN KODUNAAAAAA HIIIHHH

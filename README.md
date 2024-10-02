@@ -20,9 +20,4 @@
 #### operator olarak giriş için
      zeynep_baydemir ya da  gulzade_147852 kullanıcı adıyla giriş yapın. Tüm şifreler 1234
 
-super operator sayfalarında bir işiniz yok şimdilik operator sayfalarına ekleme yapmanız gerekiyor
-operator sayfaları src/pages/operatorpages içinde bulunmakta.
 
-Oprator sayfalarında map, camera ve warning sayfalarını oluşturdum ben zaten siz ekstra oluşturmayın.
-
-VAR OLAN ŞEYE DOKUNUP BOZMAYINIZ!!!!  MERAKLIYDIM SENİN KODUNAAAAAA HIIIHHH

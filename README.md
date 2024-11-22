@@ -1,3 +1,9 @@
+# Versiyonlar
+    python : 3.9.13
+    tensorflow : 2.13.0
+
+
+
 # Veritabanı 
 
     veritabanı dosyasını postgresql de içeriye aktarın, şifresi: 479528
